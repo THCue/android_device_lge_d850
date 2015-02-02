@@ -1,21 +1,21 @@
 [
   {
-    "repository":  "DirtyUnicorns/android_device_lge_g3-common",
+    "repository":  "THCue/android_device_lge_g3-common",
     "target_path": "device/lge/g3-common",
     "branch":      "lollipop-caf"
   },
   {
-    "repository":  "DirtyUnicorns/android_kernel_lge_g3",
+    "repository":  "tectas/android_kernel_lge_msm8974ac",
     "target_path": "kernel/lge/g3",
-    "branch":      "lollipop-caf"
+    "branch":      "rin-cm-12.0""
   },
   {
-    "repository":  "DirtyUnicorns/android_device_qcom-common",
+    "repository":  "THCue/android_device_qcom-common",
     "target_path": "device/qcom/common",
     "branch":      "lollipop-caf"
   },
     {
-    "repository":  "DirtyUnicorns/android_vendor_lge",
+    "repository":  "THCue/android_vendor_lge",
     "target_path": "vendor/lge",
     "branch":      "lollipop-caf"
   }
