@@ -1,6 +1,6 @@
 [
   {
-    "repository":  "THCue/android_device_lge_g3-common",
+    "repository":  "DirtyUnicorns/android_device_lge_g3-common",
     "target_path": "device/lge/g3-common",
     "branch":      "lollipop-caf"
   },
@@ -10,12 +10,12 @@
     "branch":      "rin-cm-12.0""
   },
   {
-    "repository":  "THCue/android_device_qcom-common",
+    "repository":  "DirtyUnicorns/android_device_qcom-common",
     "target_path": "device/qcom/common",
     "branch":      "lollipop-caf"
   },
     {
-    "repository":  "THCue/android_vendor_lge",
+    "repository":  "DirtyUnicorns/android_vendor_lge",
     "target_path": "vendor/lge",
     "branch":      "lollipop-caf"
   }
